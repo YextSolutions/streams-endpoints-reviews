@@ -12,7 +12,7 @@
       ],
       "filter": {
         "publishers": [
-          "firstparty", "externalfirstparty"
+          "FIRSTPARTY", "EXTERNALFIRSTPARTY"
         ]
       }
     },
