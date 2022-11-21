@@ -14,8 +14,8 @@
         "apiIdentifier"
       ],
       "filter": {
-        "publishers": [
-          "firstparty", "externalfirstparty"
+        "Publishers": [
+          "FIRSTPARTY", "EXTERNALFIRSTPARTY"
         ]
       }
     },
